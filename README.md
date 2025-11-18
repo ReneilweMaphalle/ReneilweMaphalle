@@ -29,7 +29,7 @@ Currently building my portfolio through practical projects in Python, SQL, Power
 ### 2. **Hotel Booking Cancellation Prediction**
 - Machine learning project predicting booking cancellations  
 - Uses data cleaning, SMOTE balancing, and Random Forest model  
-- Repository: (to be uploaded)
+- Repository: (FutureShapers)
 
 ### 3. **Travel Agency Website**
 - Simple website built using HTML & CSS  
